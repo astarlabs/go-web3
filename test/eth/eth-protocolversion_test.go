@@ -25,8 +25,8 @@ import (
 	"fmt"
 	"testing"
 
-	web3 "github.com/regcostajr/go-web3"
-	"github.com/regcostajr/go-web3/providers"
+	web3 "github.com/astarlabs/go-web3"
+	"github.com/astarlabs/go-web3/providers"
 )
 
 func TestEthGetProtocolVersion(t *testing.T) {

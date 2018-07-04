@@ -1,7 +1,7 @@
 package helpers
 
 import (
-	"github.com/regcostajr/go-web3/dto"
+	"github.com/astarlabs/go-web3/dto"
 	"math/big"
 )
 

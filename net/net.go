@@ -22,8 +22,8 @@
 package net
 
 import (
-	"github.com/regcostajr/go-web3/dto"
-	"github.com/regcostajr/go-web3/providers"
+	"github.com/astarlabs/go-web3/dto"
+	"github.com/astarlabs/go-web3/providers"
 	"math/big"
 )
 
